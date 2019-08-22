@@ -1,0 +1,1 @@
+Esse repositório foi criado para guardar as atividades da disciplina de Introdução às técnicas de programação, referentes ao semestre 2019.2, pelo aluno Elton Gil Xavier Moura, matricula: 20190051713.
