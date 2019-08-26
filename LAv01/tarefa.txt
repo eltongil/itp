@@ -1,0 +1,13 @@
+Exercícios do URI
+de 19/08/2019 às 10h50 a 31/08/2019 às 23h55
+
+Faça os seguintes exercícios do URI Online Judge e submeta um arquivo com todos os códigos.
+ATENÇÃO: Plágios (colas) serão tratados com tolerância ZERO!
+1061,  1118, 1160, 1162,  1164,
+1173, 1175, 1176, 1177, 1179.
+
+para fazer os exercícios é OBRIGATÓRIO realizar os seguintes passos:
+Passo1) acesse https://www.urionlinejudge.com.br/judge/en/disciplines/join/5285
+Passo 2) utilize a chave de acesso: oZNYbDF 
+Passo 3) após resolver os exercícios submeta os códigos nesta tarefa do SIGAA. 
+
